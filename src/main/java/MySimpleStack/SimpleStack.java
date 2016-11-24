@@ -1,5 +1,7 @@
 package MySimpleStack;
 
+import java.util.EmptyStackException;
+
 /**
  * Created by Julien Soula on 23/11/2016.
  * Interface simple stack
