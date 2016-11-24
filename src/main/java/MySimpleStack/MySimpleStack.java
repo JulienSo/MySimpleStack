@@ -1,5 +1,7 @@
 package MySimpleStack;
 
+import java.util.EmptyStackException;
+
 import java.util.Stack;
 
 /**
