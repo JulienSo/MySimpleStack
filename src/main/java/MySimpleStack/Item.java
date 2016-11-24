@@ -13,7 +13,7 @@ public class Item {
     }
 
     /**
-     * get de value
+     * get de value un commentaire répondant à l'exigence 1
      * @return retour de la valeur de value
      */
     public Object getValue(){
