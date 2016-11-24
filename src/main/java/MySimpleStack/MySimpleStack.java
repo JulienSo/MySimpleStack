@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * Created by Julien on 23/11/2016.
  * class Mysimplestack implémentant l'interface SimpleStack comme demandé
- * correspondance avec l'exigence #3
+ * classe en correspondance avec l'exigence #3
  */
 public class MySimpleStack implements SimpleStack {
 
